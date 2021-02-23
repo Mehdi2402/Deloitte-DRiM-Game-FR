@@ -1,1 +1,1 @@
-# Deloitte-DRiM-Game---Risque-de-cr-dit
+# Deloitte DRiM Game - Risque de crédit
