@@ -24,8 +24,7 @@ Un enjeu opérationnel pour optimiser le processus de recouvrement en orientant 
 * Modélisation avec un **modèle classique** : régression logistique, **des modèles challenger** : Random Forest et XGBoost, et **un modèle alternatif** : cubist (régression bornée).
 
 # Résultats
-
-Réstitution des résultats dans une interface graphique utilisant **Streamlit** ( programme : *streamlit_structure.py*)
+Réstitution des résultats dans une interface graphique utilisant **Streamlit** ( programme : *streamlit_structure.py*).
 Aperçu des résultats :
 <p align="center">
   <img src="https://github.com/Mehdi2402/images/blob/main/drim_contrat.gif?raw=true" />
