@@ -22,7 +22,7 @@ Un enjeu opérationnel pour optimiser le processus de recouvrement en orientant 
 * Rajout de variables de croisement, ratios et variables indicatrices.
 * Séparation du dataset de maturités.
 * Projection des contrats censurés.
-* Prétraitement pour la modélisation : Discrétisation de la target.
+* Prétraitement pour la modélisation : Discrétisation de la target et séléction de variables.
 * Modélisation avec un **modèle classique** : régression logistique, **des modèles challenger** : Random Forest et XGBoost, et **un modèle alternatif** : cubist (régression bornée).
 
 # Résultats
