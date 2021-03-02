@@ -1,6 +1,8 @@
 # Deloitte DRiM Game - Risque de crédit
 
-# Sujet 
+# Sujet
+**Lien du challenge : https://www.deloitterecrute.fr/2020/12/23/drim-game-2020-retour-sur-le-challenge-data-science/**
+
 Analyse des facteurs explicatifs (déterminants) des taux de récupérations marginales par tranche de maturité en défaut sur un portefeuille de crédits.
 
 L’analyse, concernant des données de panel avec une dimension temporelle, est à traiter par application de modèles économétriques « classiques » et l’utilisation raisonnée d’une ou plusieurs méthodes de machine learning.
